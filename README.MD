@@ -1,0 +1,1 @@
+This repository reflects my learning and improvement of knowledge in the subject “Algorithmic Theory”. It will contain the code needed to complete the labs.
